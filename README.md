@@ -1,2 +1,1 @@
-# uaiso-plasma-minimal
-Pacote Mínimo do Plasma
+# Pacote minimo de instalação do Plasma

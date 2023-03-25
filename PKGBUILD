@@ -8,11 +8,9 @@ arch=('any')
 url="https://so.uai21.online"
 license=('GPL')
 
-depends=(
-            'plasma-desktop: Plasma Minimal'
+depends=(   'plasma-desktop: Plasma Minimal'
             'plasma-nm: Network manager applet'
             'kscreen: screen management'
             'ibus: kimpanel IBUS support'
             'scim: kimpanel SCIM support'
-            'kaccounts-integration: OpenDesktop integration plugin'
-        )
+            'kaccounts-integration: OpenDesktop integration plugin')

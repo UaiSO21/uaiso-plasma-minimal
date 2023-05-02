@@ -8,5 +8,5 @@ arch=('any')
 url="https://so.uai21.online"
 license=('GPL')
 
-depends=(plasma-desktop plasma-nm kscreen scim kaccounts-integration noto-fonts-emoji networkmanager-pptp)
+depends=(plasma-desktop plasma-nm kscreen scim kaccounts-integration noto-fonts-emoji networkmanager-pptp plasma-browser-integration)
 

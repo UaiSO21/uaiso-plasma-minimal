@@ -32,5 +32,6 @@ depends=(
       'kde-gtk-config'
       'gtk-update-icon-cache'
       'kwalletmanager'
+      'kwallet'
       )
 

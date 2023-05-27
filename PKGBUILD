@@ -16,7 +16,6 @@ depends=(
       'kscreen'
       'scim' 
       'kaccounts-integration'
-      'noto-fonts-emoji'
       'networkmanager-pptp'
       'plasma-browser-integration'
       'ark'
@@ -32,5 +31,6 @@ depends=(
       'kcalc'
       'kde-gtk-config'
       'gtk-update-icon-cache'
+      'kwalletmanager'
       )
 

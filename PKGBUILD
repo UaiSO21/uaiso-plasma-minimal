@@ -15,7 +15,6 @@ depends=(
       'kscreen'
       'scim' 
       'kaccounts-integration'
-      'networkmanager-pptp'
       'plasma-browser-integration'
       'ark'
       'jhead'
@@ -32,4 +31,5 @@ depends=(
       'gtk-update-icon-cache'
       'kwalletmanager'
       'kwallet'
+      'plasma-wayland-session'
       )

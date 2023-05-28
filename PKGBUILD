@@ -33,3 +33,5 @@ depends=(
       'kwallet'
       'plasma-wayland-session'
       )
+      
+      

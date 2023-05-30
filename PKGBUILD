@@ -20,6 +20,7 @@ depends=(
       'jhead'
       'kde-service-menu-reimage'
       'kdegraphics-thumbnailers'
+      'sddm-kcm'
       'ffmpegthumbs'
       'kio-gdrive'
       'kimageformats'

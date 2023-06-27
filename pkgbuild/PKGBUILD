@@ -7,6 +7,9 @@ pkgdesc="Pacote essencial para o Plasma"
 arch=('any')
 url="https://so.uai21.online"
 license=('GPL')
+if [ -e "${pkgname}.install" ];then
+    install=${pkgname}.install
+fi
 
 depends=(
       'plasma-desktop'
@@ -34,9 +37,4 @@ depends=(
       'plasma-wayland-session'
       )
 
-post_install() {
-      locale-gen
-      systemctl enable sddm.service
-}
-      
       

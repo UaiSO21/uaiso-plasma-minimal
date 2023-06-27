@@ -33,5 +33,10 @@ depends=(
       'kwallet'
       'plasma-wayland-session'
       )
+
+post_install() {
+      locale-gen
+      systemctl enable sddm.service
+}
       
       

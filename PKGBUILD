@@ -11,7 +11,6 @@ license=('GPL')
 depends=(
       'plasma-desktop'
       'plasma-nm'
-      'plasma-pa'
       'kscreen'
       'scim' 
       'kaccounts-integration'
